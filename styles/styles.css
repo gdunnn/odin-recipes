@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+}
+
+p {
+    color: lightpink;
+}
+
+ol,
+ul {
+    font-size: 12pt;
+    color: lightgoldenrodyellow;
+}
+
+.recipe-title {
+    color: lightcoral;
+}
+
+.directions-title,
+.ingredients-title {
+    color: lightsteelblue;
+}
